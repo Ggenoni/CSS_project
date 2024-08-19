@@ -1,5 +1,5 @@
 #   ========================================================
-#    Gaudenzia Genoni, matricola 245653
+#    Gaudenzia Genoni
 #    Computational Social Science - Research Project
 
 #   Latent Class Analysis of Socio-Economic and Political Dynamics in Italy 
