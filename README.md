@@ -1,5 +1,5 @@
 # CSS_project
-Computational Social Science research paper and material (Università di Trento, a.a. 2023/2024)
+Computational Social Science research paper and materials (Università di Trento, a.a. 2023/2024)
 
 
 To run the notebook Data.ipynb, please download the CSV files from the Data.rar archive.
